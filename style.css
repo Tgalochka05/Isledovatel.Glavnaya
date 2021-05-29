@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+    margin: 0px;
+    background: 
+    url(https://i.ytimg.com/vi/jZ3-Kh2aYM4/maxresdefault.jpg);
+}
+nav a{
+    text-decoration: none;
+    background: white;
+    color: white;
+    padding: 5px;
+    margin: 10px 50px 10px 50px;
+    color: black;
+    border: 3px solid lightblue;
+    border-radius: 10px;
+    font-family: comic sans ms;
+}
+main{
+    margin-top: 100px;
+    background: lightblue;
+    border-radius: 30px;
+}
+footer a img{
+    width: 50px;
+    height: 50px;
+}
+h1{
+    font-family: comic sans ms;
+    text-align: center;
+}
+footer{
+    margin: 0x;
+}
+p{
+    margin: 0px 30px 0px 30px;
+    font-family: cursive;
+}
+.vk{
+    margin: 0px 0px 0px 400px;
+}
+.email{
+    margin: 0px;
+}
+.inst{
+    margin: 0px;
+}
+.glav{
+    border: 3px solid orange;
+}
